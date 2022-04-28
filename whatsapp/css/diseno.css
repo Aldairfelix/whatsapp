@@ -1,0 +1,129 @@
+*{
+    box-sizing: border-box;
+    background-color: black;
+    font-family: 'Lato', sans-serif;
+    *font-family: 'Quicksand', sans-serif;
+}
+
+.fondo1{
+    width: 101%;
+    height: 222px;
+    background-color: #00a884;
+    position: relative;
+    margin-top: -8px;
+    margin-left: -8px;
+}
+
+.imagen1{   /*incono ww*/
+    height: 38px;
+    position: relative;
+    margin-top: 27px;
+    margin-left: 13.5%;
+    background: none;
+}
+
+.w-w{   /*Letra Whatsapp Web*/
+    background: none;
+    color: white;
+    margin-top: -30px;
+    margin-left: 17%;
+    font-size: 15px;
+}
+
+.fondo-blanco{
+    top: -16px;
+    width: 70.1%;
+    height: 482px;
+    background-color: white;
+    position: relative;
+    margin-top: -128px;
+    margin-left: 210px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+
+.letra-para{
+    top: 2.5em;
+    left: 2em;
+    background:none;
+    font-size: 28px;
+    position: relative;
+    margin-top: 16px;
+}
+
+.QR{
+    background: none;
+    height: 320px;
+    position: relative;
+    top: -12px;
+    left: 40.5em;
+}
+
+h4{
+    position: relative;
+    top: -13.5em;
+    left: 3.5em;
+    font-size: 18px;
+    background: none;
+    
+}
+.neg{
+    font-weight: bolder;
+    background: none;
+    font-family: 'Quicksand', sans-serif;
+}
+.neg-2{
+    position: relative;
+    font-weight: bolder;
+    background: none;
+    font-family: 'Quicksand', sans-serif;
+    left: 1em;
+}
+.menu-icon{
+    background: none;
+    position: relative;
+    top: 3px;
+    height: 19px;
+}
+.config-icon{
+    background: none;
+    position: relative;
+    top: 3px;
+    height: 19px;
+}
+p{
+    position: relative;
+    top: -13px;
+    left: 1em;
+    background: none;
+}
+.link{
+    position: relative;
+    top: -18.2em;
+    left: 4em;
+    background: none;
+    color: #008069;
+    text-decoration: none;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 13.7px;
+}
+
+.fondo-video{
+    background-color: aliceblue;
+    position: relative;
+    top: -16px;
+    width: 70.1%;
+    height: 460px;
+    left: 13.1em;
+    margin-bottom: 5.5em;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+
+iframe{
+    position: relative;
+    top: 5em;
+    left: 13em;
+    width: 560px;
+    height: 315px;
+}
